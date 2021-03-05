@@ -1,2 +1,8 @@
 # Software_Engineering_Application_2021
-2021_소프트웨어공학응용_수업자료
+- OS: OSX(mac), Window
+- Editor : VisualCode(vsCode)
+- Author : GloryKim (https://github.com/GloryKim)
+-----------------------------------------------------
+# Notice
+1. 1주차 : 오리엔테이션
+2. 2주차 : Manual_Github
