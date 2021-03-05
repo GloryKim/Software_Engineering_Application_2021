@@ -4,5 +4,5 @@
 - Author : GloryKim (https://github.com/GloryKim)
 -----------------------------------------------------
 # Notice
-1. 1주차 : 오리엔테이션
-2. 2주차 : Manual_Github
+1주차 : 오리엔테이션
+2주차 : Manual_Github
